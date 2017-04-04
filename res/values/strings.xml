@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShipAZ</string>
+    <string name="txt_hotline">19006830</string>
+    <string name="lbl_enter_info">NHẬP THÔNG TIN</string>
+    <string name="lbl_pricing_table">BẢNG GIÁ</string>
+    <string name="lbl_route_name">Tên tuyến</string>
+    <string name="lbl_price">Giá</string>
+    <string name="price_30000">30.000</string>
+    <string name="price_40000">40.000</string>
+    <string name="price_50000">50.000</string>
+    <string name="lbl_normal_delivery">Chuyển bình thường</string>
+    <string name="lbl_fast_delivery">Chuyển phát nhanh</string>
+    <string name="lbl_overnight_delivery">Chuyển ban đêm</string>
+    <string name="lbl_customer_info">Thông tin khách hàng:</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="lbl_required_field">(*)</string>
+    <string name="delivery_hanoi_zone">Nội thành Hà Nội</string>
+    <string name="delivery_zone_1">Nội thành</string>
+    <string name="delivery_zone_2">Ngoại thành 1</string>
+    <string name="delivery_zone_3">Ngoại thành 2</string>
+    <string name="hint_enter_phone_number">Nhập số điện thoại</string>
+    <string name="hint_enter_password">Nhập mật khẩu</string>
+    <string name="btn_print_shipping_bill">In vận đơn</string>
+    <string name="btn_create_shipping_bill">Tạo vận đơn</string>
+    <string name="delivery_note">Nội dung gửi hàng:</string>
+    <string name="delivery_content">Nội dung</string>
+    <string name="delivery_fee_1">Phí thu hộ</string>
+    <string name="delivery_fee_2">Tiền phí</string>
+    <string name="ex_1">HÓA ĐƠN MÃ 1120</string>
+    <string name="ex_2">Nguyen Van An</string>
+    <string name="ex_3">8.0kg</string>
+    <string name="ex_4">example text</string>
+    <string name="ex_5">90.000vnđ</string>
+    <string name="ex_6">10.000vnđ</string>
+    <string name="lbl_username">Username:</string>
+    <string name="lbl_weight">Khối lượng:</string>
+    <string name="lbl_content">Nội dung:</string>
+    <string name="lbl_fee_1">Phí thu hộ:</string>
+    <string name="lbl_fee_2">Tiền phí:</string>
+
+</resources>
